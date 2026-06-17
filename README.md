@@ -101,7 +101,7 @@ A line chart created in Google Sheets was used to visualize monthly layoffs tren
 This chart highlights spikes in layoffs during major global economic shifts.
 
 
-![Monthly Layoff Trend]("C:\Users\user\OneDrive\Desktop\SQL projects\world_layoffs_sql_eda\screenshots\Monthly Layoff trend .png")
+![Monthly Layoff trend]("C:\Users\user\OneDrive\Desktop\SQL projects\world_layoffs_sql_eda\screenshots\Monthly Layoff trend .png")
 
 
 ---
