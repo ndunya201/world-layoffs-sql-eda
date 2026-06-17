@@ -101,7 +101,7 @@ A line chart created in Google Sheets was used to visualize monthly layoffs tren
 This chart highlights spikes in layoffs during major global economic shifts.
 
 
-![Monthly Layoff trend](screenshots\Monthly Layoff trend.png)
+![Monthly Layoff trend](screenshots/monthly_layoffs_trend.png)
 
 
 ---
