@@ -98,16 +98,15 @@ world-layoffs-sql-eda/
 
 A line chart created in Google Sheets was used to visualize monthly layoffs trends over time.
 
-👉 This chart highlights spikes in layoffs during major global economic shifts.
+This chart highlights spikes in layoffs during major global economic shifts.
 
 
-```markdown
-![Monthly Trend]("C:\Users\user\OneDrive\Desktop\SQL projects\world_layoffs_sql_eda\screenshots\Monthly Layoff trend .png")
-```
+![Monthly Layoff Trend]("C:\Users\user\OneDrive\Desktop\SQL projects\world_layoffs_sql_eda\screenshots\Monthly Layoff trend .png")
+
 
 ---
 
-## 🧠 Insights Generated
+##  Insights Generated
 
 - Layoffs were heavily concentrated in specific time periods, indicating economic downturns
 - Certain industries (e.g., tech) were significantly more affected than others
@@ -117,7 +116,7 @@ A line chart created in Google Sheets was used to visualize monthly layoffs tren
 
 ---
 
-## 🚀 Business Value
+##  Business Value
 
 This analysis helps understand:
 - Global workforce trends
@@ -127,7 +126,7 @@ This analysis helps understand:
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This analysis is based on cleaned data from a previous SQL data cleaning project
 - Records with missing dates were excluded from time-based analysis to ensure accuracy
